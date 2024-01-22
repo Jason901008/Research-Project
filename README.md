@@ -3,5 +3,6 @@
 ## 專題研究
 
 * 以下為資料來源<br>
-https://opendata.judicial.gov.tw/dataset/detail?datasetId=27959
+刑事判決書來源:[司法院資料開放平台](https://opendata.judicial.gov.tw/dataset/detail?datasetId=27959)
+
 
