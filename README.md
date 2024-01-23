@@ -4,7 +4,7 @@
 
 * 資料來源<br>
 刑事判決書來源：[司法院資料開放平台](https://opendata.judicial.gov.tw/dataset/detail?datasetId=27959)<br>
-開放平台使用說明：[Source.pdf](https://github.com/Jason901008/Research-Project/blob/main/Research%20Project/Source/Source.pdf)<br>
+開放平台使用說明：[Source.pdf](https://github.com/Jason901008/Research-Project/blob/main/%E8%B3%87%E6%96%99%E4%BE%86%E6%BA%90/Source.pdf)<br>
 
 * 標籤工具<br>
 [label studio下載與使用說明](https://blog.csdn.net/qq_44193969/article/details/123298406)<br>
