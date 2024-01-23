@@ -8,7 +8,7 @@
 
 * 標籤工具<br>
 [label studio下載與使用說明](https://blog.csdn.net/qq_44193969/article/details/123298406)<br>
-[轉成BIOES格式]()
+[轉成BIOES格式](https://github.com/Jason901008/Research-Project/blob/main/%E6%A8%99%E7%B1%A4%E5%B7%A5%E5%85%B7/Span_to_BIOES.py)
 
 
 
