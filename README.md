@@ -11,7 +11,7 @@
 
 * 風險詞<br>
 微調NER模型：[Fine-tune NER Model](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Fine-tune_NER_Model.pdf)<br>
-
+[需要先下載 transformers](https://github.com/huggingface/transformers/tree/main/examples)
 
 
 
