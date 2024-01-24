@@ -10,8 +10,9 @@
 轉成BIOES格式：[Span to BIOES](https://github.com/Jason901008/Research-Project/blob/main/%E6%A8%99%E7%B1%A4%E5%B7%A5%E5%85%B7/Span_to_BIOES.py)<br>
 
 * 風險詞<br>
+需要先下載[transformers](https://github.com/huggingface/transformers/tree/main/examples)<br>
 微調NER模型：[Fine-tune NER Model](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Fine-tune_NER_Model.pdf)<br>
-[需要先下載 transformers](https://github.com/huggingface/transformers/tree/main/examples)
+
 
 
 
