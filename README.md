@@ -17,7 +17,7 @@
 NER模型使用：[NER TEST](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/NER_TEST.py)<br>
 
 * Jieba斷詞<br>
-
+使用上述 NER 模型的[輸出結果]()，
 
 
 
