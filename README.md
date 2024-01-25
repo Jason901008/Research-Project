@@ -17,7 +17,7 @@
 NER模型使用：[NER TEST](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/NER_TEST.py)<br>
 
 * Jieba斷詞<br>
-使用上述 NER 模型的[輸出結果]()，
+使用上述 NER 模型的[輸出結果](https://github.com/Jason901008/Research-Project/tree/main/jieba%20%E6%96%B7%E8%A9%9E/interface_Pred_all_risk)，根據我們所製作的[使用者辭典]()進行斷詞，
 
 
 
