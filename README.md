@@ -16,6 +16,7 @@
 判決書原文資料：[Original Data](https://github.com/Jason901008/Research-Project/tree/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Result_Record/Original_Data)<br>
 NER模型使用：[NER TEST](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/NER_TEST.py)<br>
 
+* Jieba斷詞<br>
 
 
 
