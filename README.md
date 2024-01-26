@@ -20,10 +20,10 @@ NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/ma
 使用上述 NER 模型的 [輸出結果](https://github.com/Jason901008/Research-Project/tree/main/jieba%20%E6%96%B7%E8%A9%9E/interface_Pred_all_risk)，根據我們所製作的 [使用者辭典](https://github.com/Jason901008/Research-Project/blob/main/jieba%20%E6%96%B7%E8%A9%9E/Ws_Dictionary.txt) 進行斷詞<br>
 斷詞：[Code](https://github.com/Jason901008/Research-Project/blob/main/jieba%20%E6%96%B7%E8%A9%9E/jieba_WS.py)<br>
 
+* 隨機森林樹分類模型<br>
 
 
-
-
+* 隨機森林樹預測模型<br>
 
 
 
