@@ -21,10 +21,10 @@ NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/ma
 斷詞：[Code](https://github.com/Jason901008/Research-Project/blob/main/jieba%20%E6%96%B7%E8%A9%9E/jieba_WS.py)<br>
 
 * 隨機森林樹分類模型<br>
-：[Random_Forest_Classifier](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B/Random_Forest_Classifier.pdf)
-分類模型：[Code]()
+：[Random_Forest_Classifier](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B/Random_Forest_Classifier.pdf)<br>
+分類模型：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B/Case_Classifier.py)<br>
+回歸模型：[Code]()<br>
 
-* 隨機森林樹回歸模型<br>
 
 
 
