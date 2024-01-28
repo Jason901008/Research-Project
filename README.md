@@ -21,13 +21,13 @@ NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/ma
 斷詞：[Code](https://github.com/Jason901008/Research-Project/blob/main/jieba%20%E6%96%B7%E8%A9%9E/jieba_WS.py)<br>
 
 * 隨機森林樹模型<br>
-訓練方式：[Random_Forest](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E6%A8%A1%E5%9E%8B/Random_Forest.pdf)<br>
+訓練方式：[Random Forest](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E6%A8%A1%E5%9E%8B/Random_Forest.pdf)<br>
 分類模型：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E6%A8%A1%E5%9E%8B/%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B/Case_Classifier.py)<br>
 回歸模型：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E6%A8%B9%E6%A8%A1%E5%9E%8B/%E5%9B%9E%E6%AD%B8%E6%A8%A1%E5%9E%8B/YearFine_Regression.py)<br>
 
 * 相似判決書<br>
+訓練方式：[Similar Judgments](https://github.com/Jason901008/Research-Project/blob/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/Similar_Judgments.pdf)<br>
 ：[Code]()<br>
-
 
 
 
