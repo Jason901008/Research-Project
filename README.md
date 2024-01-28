@@ -27,7 +27,7 @@ NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/ma
 
 * 相似判決書<br>
 訓練方式：[Similar Judgments](https://github.com/Jason901008/Research-Project/blob/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/Similar_Judgments.pdf)<br>
-：[Code]()<br>
+：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/Retrieve_VerdictSimilar_Verdict.py)<br>
 
 
 
