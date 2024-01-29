@@ -2,11 +2,8 @@
 ## 法律預測系統
 ### 雲端->下載壓縮檔->"程式碼"資料夾->"系統程式執行檔 & 系統原始程式"資料夾->"run_install.exe"
 ### [系統下載](https://drive.google.com/drive/u/0/folders/1Th6UCs6kKGzA38C7cvFBtrE40LQUy3Qe)
-&nbsp;  /*空白*/ 
-&nbsp;  //空白 
-&nbsp;  "空白" 
-&nbsp;  '''空白'''
-&nbsp;  %%空白%%
+&nbsp; 
+
 ## 研究方法
 * 資料來源<br>
 刑事判決書來源：[司法院資料開放平台](https://opendata.judicial.gov.tw/dataset/detail?datasetId=27959)<br>
