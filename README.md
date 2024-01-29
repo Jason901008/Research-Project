@@ -2,6 +2,7 @@
 ### 下載壓縮檔->"程式碼"資料夾->"系統程式執行檔 & 系統原始程式"資料夾->"run_install.exe"
 ## [系統下載](https://drive.google.com/drive/u/0/folders/1Th6UCs6kKGzA38C7cvFBtrE40LQUy3Qe)
 
+#### 研究方法
 * 資料來源<br>
 刑事判決書來源：[司法院資料開放平台](https://opendata.judicial.gov.tw/dataset/detail?datasetId=27959)<br>
 開放平台使用說明：[Source](https://github.com/Jason901008/Research-Project/blob/main/%E8%B3%87%E6%96%99%E4%BE%86%E6%BA%90/Source.pdf)<br>
