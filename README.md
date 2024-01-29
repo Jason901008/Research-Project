@@ -1,5 +1,5 @@
 # 深度學習在法院判決書上的重要訊息擷取與預測之研究
-####### 下載壓縮檔->"程式碼"資料夾->"系統程式執行檔 & 系統原始程式"資料夾->"run_install.exe"
+###### 下載壓縮檔->"程式碼"資料夾->"系統程式執行檔 & 系統原始程式"資料夾->"run_install.exe"
 ## [系統下載](https://drive.google.com/drive/u/0/folders/1Th6UCs6kKGzA38C7cvFBtrE40LQUy3Qe)
 ### 研究方法
 * 資料來源<br>
