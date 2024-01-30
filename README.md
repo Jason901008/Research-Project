@@ -19,7 +19,7 @@
 需要先下載 [transformers](https://github.com/huggingface/transformers/tree/main/examples)<br>
 微調NER模型：[Fine-tune NER Model](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Fine-tune_NER_Model.pdf)<br>
 雲端 [NER MODEL](https://drive.google.com/drive/u/0/folders/1Th6UCs6kKGzA38C7cvFBtrE40LQUy3Qe)<br>
-判決書原文資料：[Original Data]([https://github.com/Jason901008/Research-Project/tree/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Result_Record/Original_Data](https://github.com/Jason901008/Research-Project/tree/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Result_Record))<br>
+判決書原文資料：[Original Data](https://github.com/Jason901008/Research-Project/tree/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/Result_Record)<br>
 NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E9%A2%A8%E9%9A%AA%E8%A9%9E/NER_TEST.py)<br>
 
 * Jieba斷詞<br>
