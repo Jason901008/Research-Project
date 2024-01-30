@@ -8,9 +8,7 @@ import os
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import f1_score
 from text2vec import SentenceModel
 
 
@@ -18,7 +16,7 @@ def input_train_data():
     global merged_df
     
     #train data
-    folder = './Train&Test_EvaluateData/Period_train'
+    folder = r'../Period_train'
     paths = [os.path.join(folder, filename) for filename in os.listdir(folder)]
 
     dfs = []
@@ -32,10 +30,10 @@ def tranfer_label():
     global instance
     
     #transfer case name into number
-    label_encoder = LabelEncoder()
     instance  = ['毒品危害防制條例' , '偽造文書' , '賭博' , '過失傷害' , '公共危險' , '竊盜']
-    English_instance = ['Drug','Forged_Documents','Gamble','Negligent_Injury','Public_Danger','Theft']
     case_conditions = {}
+    label_encoder = LabelEncoder()
+    
     for i in range (len(instance)):
         case_conditions[f'case{i+1}'] = (merged_df[3] == instance[i])
     
@@ -46,7 +44,7 @@ def input_test_data():
     global dfs_test_all
     
     #test data 
-    test_folder = './Train&Test_EvaluateData/Period_test'
+    test_folder = r'../Period_test'
     test_paths = [os.path.join(test_folder, filename) for filename in os.listdir(test_folder)]
 
     dfs_test = []
