@@ -13,7 +13,7 @@
 * 標籤工具<br>
 [label studio下載與使用說明](https://blog.csdn.net/qq_44193969/article/details/123298406)<br>
 轉成BIOES格式：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E6%A8%99%E7%B1%A4%E5%B7%A5%E5%85%B7/Span_to_BIOES.py)<br>
-輸入資料：[All Risk_5](https://github.com/Jason901008/Research-Project/blob/main/%E6%A8%99%E7%B1%A4%E5%B7%A5%E5%85%B7/All_Risk_5.json)<br>
+輸入資料：[All Risk](https://github.com/Jason901008/Research-Project/blob/main/%E6%A8%99%E7%B1%A4%E5%B7%A5%E5%85%B7/All_Risk_5.json)<br>
 
 * 風險詞<br>
 需要先下載 [transformers](https://github.com/huggingface/transformers/tree/main/examples)<br>
