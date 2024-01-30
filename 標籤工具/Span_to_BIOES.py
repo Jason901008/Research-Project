@@ -1,9 +1,8 @@
 import json
 import pandas as pd
 
-#input_file = r'Ner_data/01/All_1.json'
-#input_file = r'All_Risk_5.json'
-input_file = r'Result_Record/Theft/Bonus/Theft_400.json'
+
+input_file = r'All_Risk_5.json'
 
 with open ( input_file , 'r' , encoding = 'utf-8' ) as f :
     data = json.load(f)
@@ -33,7 +32,6 @@ def to_BIOES () :
         bio_labels = ['O'] * len(spilt_verdict)
         
         for span in spans :
-            #print ( verdict , span)
             start = span['value']['start']
             end = span['value']['end']
             entity_type = span['value']['labels'][0]
@@ -69,8 +67,7 @@ def to_BIOES () :
 # Output json
 def Write_to_Json () : 
     # 檔名不管大小寫，會是同一個檔案
-    #with open ( 'all_5.json' , 'w' , encoding='utf-8' ) as f :
-    with open ( 'Theft_Bonus.json' , 'w' , encoding='utf-8' ) as f :
+    with open ( 'all_5.json' , 'w' , encoding='utf-8' ) as f :
         for data in all_data :
             # 将字典数据转换为没有额外空白字符的 JSON 字符串
             json_data = json.dumps ( data , separators = (',', ':') , ensure_ascii=False )
@@ -80,8 +77,7 @@ def Write_to_Json () :
 
 # Output txt
 def Write_to_Txt () :
-    #with open ( 'all_text_5.txt' , 'w' , encoding='utf-8' ) as f :
-    with open ( 'Theft_Bonus.txt' , 'w' , encoding='utf-8' ) as f :
+    with open ( 'all_text_5.txt' , 'w' , encoding='utf-8' ) as f :
         for text in all_text.keys() :
             f.write ( text + '\n' )
 
@@ -93,8 +89,7 @@ def Write_to_Csv () :
     
     all_data = { 'Text': all_verdict_data , 'Risk': all_verdict_risk }
     all_df = pd.DataFrame ( all_data )
-    #all_df.to_csv ( 'Risk_all_data.csv', index=False, header=0, encoding='utf-8' )
-    all_df.to_csv ( 'Theft_Bonus_data.csv', index=False, header=0, encoding='utf-8' )
+    all_df.to_csv ( 'Risk_all_data.csv', index=False, header=0, encoding='utf-8' )
 
 
 
