@@ -35,7 +35,7 @@ NER模型使用：[Code](https://github.com/Jason901008/Research-Project/blob/ma
 
 * TF-IDF與詞嵌入<br>
 訓練方式：[Similar Judgments](https://github.com/Jason901008/Research-Project/blob/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/Similar_Judgments.pdf)<br>
-訓練資料：[sim data](https://github.com/Jason901008/Research-Project/tree/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/sim_data)<br>
+使用資料：[sim data](https://github.com/Jason901008/Research-Project/tree/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/sim_data)<br>
 相似判決書：[Code](https://github.com/Jason901008/Research-Project/blob/main/%E7%9B%B8%E4%BC%BC%E5%88%A4%E6%B1%BA%E6%9B%B8/Retrieve_VerdictSimilar_Verdict.py)<br>
 
 
