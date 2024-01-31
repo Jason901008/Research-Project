@@ -6,8 +6,6 @@ Created on Thu Jan 25 22:02:51 2024
 """
 import numpy as np
 import pandas as pd
-from sklearn.metrics import r2_score
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestRegressor
 from text2vec import SentenceModel
 
@@ -16,11 +14,11 @@ def input_data():
     global test_data
     
     #train data
-    train_data = pd.read_csv('./Train&Test_EvaluateData/Period_train/Negligent_Injury_ner_for_WordEbedding_Period_train.csv', encoding='utf-8-sig', header=None)
+    train_data = pd.read_csv(r'../Period_train/Drug_ner_for_WordEbedding_Period_train.csv', encoding='utf-8-sig', header=None)
     train_data.columns = ['keywords', 'years', 'fine', 'name']
     
     #test data
-    test_data = pd.read_csv('./Train&Test_EvaluateData/Period_test/Negligent_Injury_ner_for_WordEbedding_Period_test.csv', encoding='utf-8-sig', header=None)
+    test_data = pd.read_csv(r'../Period_test/Drug_ner_for_WordEbedding_Period_test.csv', encoding='utf-8-sig', header=None)
     test_data.columns = ['keywords', 'years', 'fine', 'name']
 
 def transfer_data():
